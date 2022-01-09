@@ -30,8 +30,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import androidx.core.app.ActivityCompat;
 
-
-
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
