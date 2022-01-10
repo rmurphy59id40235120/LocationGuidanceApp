@@ -16,4 +16,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="get_gps">Get GPS</string>
+    <string name="get_longitude_and_latitude">Get Longitude and Latitude</string>
+    <string name="latititude">Latititude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude</string>
 </resources>
